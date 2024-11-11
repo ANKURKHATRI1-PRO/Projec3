@@ -5,6 +5,7 @@
 .This project focuses on analyzing residential real estate data to identify factors influencing house prices, using advanced data analytics and visualization techniques. The goal is to provide actionable insights to support strategic pricing and investment decisions in the real estate market.
 
 *Project Objectives
+
 .Conduct exploratory data analysis (EDA) to identify key variables impacting house prices.
 .Engineer new features to enhance predictive analysis.
 .Uncover trends, correlations, and clusters that highlight market patterns.
