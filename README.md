@@ -7,9 +7,13 @@
 *Project Objectives
 
 .Conduct exploratory data analysis (EDA) to identify key variables impacting house prices.
+
 .Engineer new features to enhance predictive analysis.
+
 .Uncover trends, correlations, and clusters that highlight market patterns.
+
 .Provide recommendations based on data-driven insights for better business positioning.
+
 *Dataset
 
 .File: Housing Data.csv
