@@ -56,6 +56,8 @@ Future Work
 Develop predictive models using the engineered features.
 Integrate economic indicators for enhanced predictive power.
 Create a dynamic pricing tool to adjust prices based on real-time data.
+
+
 Conclusion
 This analysis provides a comprehensive understanding of the factors influencing real estate prices, enabling the company to make data-driven decisions and optimize pricing strategies.
 
